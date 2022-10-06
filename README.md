@@ -43,6 +43,6 @@ And more to come!!
 ## 🌎 Let's connect...
 📬 dennis.maccarthy@gmail.com
 
-👤 [LinkedIn](https://www.linkedin.com/in/dennis-maccarthy-31501821b/)
+👤 [LinkedIn](https://www.linkedin.com/in/dennismacc/)
 
 🚧 [Portfolio](https://dennismacc.github.io) -- new updates coming soon!! 🚧
