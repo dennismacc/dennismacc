@@ -45,4 +45,4 @@ And more to come!!
 
 👤 [LinkedIn](https://www.linkedin.com/in/dennismacc/)
 
-🚧 [Portfolio](https://dennismacc.github.io) -- new updates coming soon!! 🚧
+🖥 [Portfolio](https://dennismacc.github.io)
