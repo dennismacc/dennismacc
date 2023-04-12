@@ -5,7 +5,7 @@
 
 
 ## 👨🏼‍💻 What I'm working on...
-Freelance web developer working with [Sunnie Hunnies]([https](https://sunniehunnies.co/)
+Freelance web developer working with [Sunnie Hunnies](https://sunniehunnies.co/)
 
 Adding cool features to [DÜDL](https://github.com/dennismacc/DUDL-Game) and [Groove](https://github.com/dennismacc/Groove)
 
