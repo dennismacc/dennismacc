@@ -5,9 +5,9 @@
 
 
 ## 👨🏼‍💻 What I'm working on...
-Web developer working with [Sunnie Hunnies](https://sunniehunnies.co/) and [Holistic Kids Foundation](https://holistickidsfoundation.org)
+Website and Documentation Manager for [Accelerated Memory Production, Inc.](https://ampinc.com/)
 
-Adding cool features to [DÜDL](https://github.com/dennismacc/DUDL-Game) and [Groove](https://github.com/dennismacc/Groove)
+Web developer working with [Sunnie Hunnies](https://sunniehunnies.co/) and [Holistic Kids Foundation](https://holistickidsfoundation.org)
 
 Learning new skills and building a stronger foundation for future projects 
 
