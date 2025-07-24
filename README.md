@@ -5,9 +5,7 @@
 
 
 ## 👨🏼‍💻 What I'm working on...
-Website and Documentation Manager for [Accelerated Memory Production, Inc.](https://ampinc.com/)
-
-Web developer working with [Sunnie Hunnies](https://sunniehunnies.co/) and [Holistic Kids Foundation](https://holistickidsfoundation.org)
+Ecommerce Manager for [TOOR CORP](https://toor-corp.com/)
 
 Learning new skills and building a stronger foundation for future projects 
 
